@@ -1,16 +1,20 @@
-### Hi there 👋
+## About me
 
-<!--
-**Caioohv/caioohv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Caio Vieira 👋🏻
 
-Here are some ideas to get you started:
+<strong> What I'm learning and working with: </strong>
+ - Java
+ - PHP
+ - HTML
+ - CSS
+ - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong> Actually I'm interested in: </strong>
+ - Spring
+ - Javascript
+ - React.js, React Native & Node.js
+ - Laravel
+
+<strong> Find me: </strong>
+
+
