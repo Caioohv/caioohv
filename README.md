@@ -16,5 +16,7 @@ Hi, I'm Caio Vieira 👋🏻
  - Laravel
 
 <strong> Find me: </strong>
+<br>
+<img style="margin-left: 4px" src="https://github.com/Caioohv/caioohv/blob/main/linkedin.png?raw=true" width="20"/> <a href="www.linkedin.com/in/caioviier">LinkedIn</a> 
 
 
