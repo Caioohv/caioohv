@@ -2,17 +2,20 @@
 
 Hi, I'm Caio Vieira 👋🏻
 
-<strong> What I'm learning and working with: </strong>
+<strong> What I'm working with: </strong>
  - Java
  - PHP
  - HTML
  - CSS
  - Python
 
+<strong> What I'm Studying: </strong>
+ - Node.js
+
 <strong> Actually I'm interested in: </strong>
  - Spring
  - Javascript
- - React.js, React Native & Node.js
+ - React.js & React Native
  - Laravel
 
 <strong> Find me: </strong>
