@@ -8,15 +8,14 @@ Hi, I'm Caio Vieira 👋🏻
  - HTML
  - CSS
  - Python
-
-<strong> What I'm Studying: </strong>
  - Node.js
 
-<strong> Actually I'm interested in: </strong>
- - Spring
- - Javascript
- - React.js & React Native
+<strong> What I'm Studying: </strong>
+ - Sprint
  - Laravel
+
+<strong> Actually I'm interested in: </strong>
+ - Web technologies
 
 <strong> Find me: </strong>
 <br>
