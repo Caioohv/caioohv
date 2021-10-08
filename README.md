@@ -20,8 +20,3 @@ Hi, I'm Caio Vieira 👋🏻
 <strong> Find me: </strong>
 <br>
 <img style="margin-left: 4px" src="https://github.com/Caioohv/caioohv/blob/main/linkedin.png?raw=true" width="20"/> <a href="www.linkedin.com/in/caioviier">LinkedIn</a> 
-
-
-[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioohv)](https://github.com/anuraghazra/github-readme-stats)
-
-
