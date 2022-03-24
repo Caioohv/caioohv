@@ -14,7 +14,7 @@ Hi you there 👋🏻 I'm Caio Vieira.
 <p align="left">
 	<img title="Node.js" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" width="70" height="40" />
 	<img title="Javascript" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg" width="70" height="40" />
-    <img title="Typescript" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_ts.svg" width="70" height="40" />
+    <img title="Typescript" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript.svg" width="70" height="40" />
     <img title="Java" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_java.svg" width="70" height="40" />
 	<img title="PHP" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php.svg" width="70" height="40" />
     <img title="SQL" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sql.svg" width="70" height="40" />
