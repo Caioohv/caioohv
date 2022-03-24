@@ -1,18 +1,16 @@
 ## 👨🏻‍💻 About me
 
-Hi you there 👋🏻
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm Caio Vieira, Web Development enthusiast, working over Node.js. <br/>
-Always looking for improvement and new knowledge to build better solutions through apps...
+Hi you there 👋🏻 I'm Caio Vieira.
 
-<strong>Currently working with:</strong> 
-<img style="margin-left: 4px;" src="https://th.bing.com/th/id/R.c502658a509d27b53679b3ef73c0d82f?rik=dFP%2b9LyCq64MMg&pid=ImgRaw&r=0" width="20"/> <b>Node.js</b>, 
-<img style="margin-left: 4px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" width="20"/> <b>Java</b>, 
-<img style="margin-left: 4px" src="https://th.bing.com/th/id/R.b187e3b1985b0aa738093d97ce028ab6?rik=wgbWNaoOezICGQ&pid=ImgRaw&r=0" width="20"/> <b>PHP</b>
+:smile: I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.
 
+:books: Actually i am studying I.T. in **Universidade Federal de Juiz de Fora**. 
 
-<strong> Find me: </strong> 
+:office-worker: I am working as a Back-end Developer, over *Node.js*, at **Gerencianet**
+
 <br>
-<a href="https://caioohv.github.io/">My Site</a>
+<a style="color: #fff" href="https://caioohv.github.io/">My Curriculum, more details and contact <strong style="color: #40ff7c">HERE</strong>.</a>
 <br>
-<img style="margin-left: 4px" src="https://github.com/Caioohv/caioohv/blob/main/linkedin.png?raw=true" width="20"/> <a href="www.linkedin.com/in/caioviier">LinkedIn</a> 
+
