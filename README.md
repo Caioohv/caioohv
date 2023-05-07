@@ -4,11 +4,11 @@
 
 Hi you there 👋🏻 I'm Caio Vieira.
 
-😊 I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.
+😊 I am a I.T. student who is passionate about writing code, solving problems and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.
 
 📚 Actually i am studying I.T. in **Universidade Federal de Juiz de Fora**. 
 
-👨‍💼 I am working as a Back-end Developer, over *Node.js*, at **Gerencianet**
+👨‍💼 I am working as a Back-end Developer, over *Node.js*, at **Efí Bank**
 
 🤓 Some of my skills are:
 <p align="left">
