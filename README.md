@@ -12,7 +12,7 @@ email = '7caiovieira "at" gmail.com'
 [professional]
 currently-employed = true
 title = 'Backend Developer'
-employer = 'Efí Bank (ex. Gerencianet)'
+employer = 'Efí Bank (ex Gerencianet)'
 
 [bio]
 categories = [
