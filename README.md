@@ -16,7 +16,7 @@ employer = 'Efí Bank (ex Gerencianet)'
 
 [bio]
 categories = [
-  'Backend Developper', 'Generalist'
+  'Backend Developer', 'Generalist'
 ]
 interests = [
   'Functional Programming',
