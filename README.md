@@ -1,62 +1,48 @@
-<h3>Hello there.</h3>
+# 👋 Hey there! I'm Caio
 
-Here's my `Manifest.toml`:
+🎯 **Full-stack developer focused on building solid digital solutions and creating meaningful user experiences.**  
+📍 Currently working as Backend developer at Efí Bank
+🎓 Studying IT at Universidade Federal de Juiz de Fora  
+🛠️ Favorite stack: **JavaScript | Nuxt.js | Vue.js | Node.js | Prisma | PostgreSQL**
 
-```toml
+---
 
-[personal]
-name = 'Caio Vieira'
-city = 'Juiz de Fora, MG'
-email = '7caiovieira "at" gmail.com'
+## 💼 About Me
 
-[professional]
-currently-employed = true
-title = 'Backend Developer'
-employer = 'Efí Bank (ex Gerencianet)'
+I'm driven by challenges and a passion for learning. I believe technology is a powerful tool for creating impact and solving real-world problems.
 
-[bio]
-categories = [
-  'Backend Developer', 'Generalist'
-]
-interests = [
-  'Functional Programming',
-  'Clean Code',
-  'Microsservices',
-  'Open Source',
-  'Linux',
-]
+Some of the things I work with:
 
-[skills]
-backend-languages = [
-  'Javascript / Node',
-  'Typescript / Node',
-  'Java',
-  'Python',
-  'PHP',
-]
-databases = [
-  'PostgreSQL',
-  'MySQL',
-  'SQLite',
-  'DynamoDB',
-  'MongoDB',
-  'Redis',
-]
-frontend-languages = [
-  'HTML',
-  'CSS',
-  'Javascript / Vue',
-]
-mobile-languages = [
-  'Java',
-  'Flutter',
-]
-misc = [
-  'Arduino',
-  'C/C++'
-]
-```
+- Web development with Nuxt.js (SPA/SSR)
+- API integration (REST & GraphQL)
+- Relational databases: PostgreSQL, MySQL
+- ORM tools: Prisma, Sequelize
+- Auth: JWT, cookies, session-based
+- Deploying with Vercel, PM2 and custom Ubuntu VPS setups
+- Responsive design with SCSS, Tailwind CSS & Nuxt UI
+- Version control with Git, GitHub & GitLab
 
-You can find more info at https://caioohv.github.io/
+---
 
-I'm always interested in meeting new people, so feel free to reach out to me using my page.
+## 🚀 Featured Projects
+
+🔗 **Viier Garage** — Automotive inventory and lamp recommendation system. [link](www.viier.com.br)
+🔗 **Efí Pay Nuxt Example** — Payment integration project with Efí Bank API  [link](https://efi-pay-nuxt-example.vercel.app/)
+🔗 **Config Keeper** — Configuration versioning and management platform for internal projects  
+
+*(More available on GitHub or upon request — some projects are private or under NDA)*
+
+---
+
+## 📫 Let's Connect!
+
+I'm open to new opportunities and collaborations.
+
+📩 **Contact**  
+- 📧 [caioviier@gmail.com]  
+- 🔗 [linkedin.com/in/caioviier]  
+- 💻 [github.com/caioohv]
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
