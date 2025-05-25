@@ -40,8 +40,8 @@ I'm open to new opportunities and collaborations.
 
 📩 **Contact**  
 - 📧 caioviier@gmail.com
-- 🔗 [Linkedin](linkedin.com/in/caioviier)  
-- 💻 [Meu Portfolio](caiohenvieira.com.br)
+- 🔗 [Linkedin](https://linkedin.com/in/caioviier)  
+- 💻 [Meu Portfolio](https://caiohenvieira.com.br)
 
 ---
 
