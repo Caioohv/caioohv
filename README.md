@@ -39,9 +39,9 @@ Some of the things I work with:
 I'm open to new opportunities and collaborations.
 
 📩 **Contact**  
-- 📧 [caioviier@gmail.com]  
-- 🔗 [linkedin.com/in/caioviier]  
-- 💻 [github.com/caioohv]
+- 📧 caioviier@gmail.com
+- 🔗 [Linkedin](linkedin.com/in/caioviier)  
+- 💻 [Meu Portfolio](caiohenvieira.com.br)
 
 ---
 
